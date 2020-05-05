@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color:  #250c30;
+    margin: 0;
+}
+
+header {
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+header a {
+    padding-right: 30px;
+    text-decoration: none;
+    color: #10f354;
+    text-transform: uppercase;
+    cursor: pointer;
+}
